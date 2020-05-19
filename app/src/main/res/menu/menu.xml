@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dailyWeather"
+        android:title="Current Weather"/>
+
+    <item
+        android:id="@+id/next16Days"
+        android:title="Next 16 Days"/>
+
+    <item
+        android:id="@+id/next24Hours"
+        android:title="Next 24 Hours"/>
+</menu>
